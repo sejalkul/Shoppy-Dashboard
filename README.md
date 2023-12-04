@@ -1,2 +1,2 @@
 # Shoppy Dashboard
- Data analysis
+ Performed Data analysis on Shoppy Store dataset and created visualization on excel.
